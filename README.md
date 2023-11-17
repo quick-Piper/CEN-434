@@ -1,2 +1,2 @@
-# CEN-434
-For my class projects on HTML, CSS and JS
+# HTML
+For my class projects on HTML and CSS
